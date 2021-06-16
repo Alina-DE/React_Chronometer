@@ -1,4 +1,8 @@
-# react-chronometer
-* A simple chronometer built with React JS.
+# React Chronometer
 
-![screenshot](./reference.gif)
+* A simple chronometer built with ReactJS.
+
+The link is[ : here :](https://react-chronometer.herokuapp.com/)
+
+
+![screenshot](./screenshot.png)
